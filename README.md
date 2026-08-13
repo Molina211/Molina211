@@ -18,7 +18,6 @@ Soy un estudiante con alta disposicion para aprender, colaborar y aportar en ent
 [![Correo](https://img.shields.io/badge/Correo-molinafierro2113%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:molinafierro2113@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Molina211-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Molina211)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhon%20Sebastian%20Molina%20Fierro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-sebasti%C3%A1n-molina-fierro-5918823aa/)
-[![Telefono](https://img.shields.io/badge/Telefono-3102350344-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+573102350344)
 [![Ubicacion](https://img.shields.io/badge/Ubicacion-Neiva%2C%20Huila%2C%20Colombia-2E8B57?style=flat-square)](https://www.google.com/maps/search/Neiva,+Huila,+Colombia)
 
 ## Proyecto destacado

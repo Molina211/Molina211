@@ -67,15 +67,6 @@ Highlights:
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Molina211&show_icons=true&include_all_commits=true&hide_border=true&title_color=111827&text_color=374151&icon_color=2563eb&bg_color=ffffff&rank_icon=github" alt="GitHub summary" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molina211&layout=compact&hide_border=true&title_color=111827&text_color=374151&bg_color=ffffff&langs_count=6" alt="Most used languages" height="160" />
-</p>
-
----
-
 ## Contact
 
 <p align="center">

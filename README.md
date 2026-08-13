@@ -1,3 +1,9 @@
+<!--
+CONFIG
+FULL_NAME: Jhon Sebastián Molina Fierro
+GITHUB_USER: Molina211
+-->
+
 <h1 align="center">Jhon Sebastian Molina Fierro</h1>
 
 <p align="center">
